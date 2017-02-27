@@ -3,11 +3,6 @@
 A test CRUD project using Node, Express, MongoDB
 
 
-## Learning resource
-
-https://zellwk.com/blog/crud-express-mongodb/
-
-
 ## Built With
 
 * NodeJS
